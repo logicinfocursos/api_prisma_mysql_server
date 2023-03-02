@@ -13,6 +13,11 @@ cors: ttps://www.npmjs.com/package/cors
 sucrase: https://www.npmjs.com/package/sucrase
 nodemon: https://www.npmjs.com/package/nodemon
 
+Para testar essa API, você pode usar clientes como o Postman (https://www.postman.com/downloads/) ou Insomnia (https://insomnia.rest/download)
+
+Caso queira testar essa API sendo acessada por uma aplicação react js, temos várias opções de projetos aqui em nosso repositório, inclusive esse:
+https://github.com/logicinfocursos/api_prisma_mysql_client_react
+
 
 ### step-by-step node/prisma
 - criar um diretório específico para o projeto
